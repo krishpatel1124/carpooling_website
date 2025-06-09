@@ -1,7 +1,7 @@
 <?php
 // Database connection settings for db4free.net
 $servername = "db4free.net"; // Host of the remote database
-$username = "root"; // Replace with your db4free username
+$username = "krish123"; // Replace with your db4free username
 $password = "krish2123//"; // Replace with your db4free password
 $dbname = "ride"; // Database name you created on db4free
 
